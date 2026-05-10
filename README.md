@@ -14,11 +14,6 @@ A simple and secure **Password Generator** app built with **React Native**. Gene
 - Copy passwords to clipboard with a single tap
 - User-friendly interface
 
-## Screenshots
-
-![Screenshot1](path-to-your-screenshot1.png)
-![Screenshot2](path-to-your-screenshot2.png)
-
 ## Installation
 
 Make sure you have **Node.js** and **Expo CLI** installed:
